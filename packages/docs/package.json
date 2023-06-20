@@ -24,7 +24,7 @@
     "es6-promise": "^4.2.8",
     "event-source-polyfill": "^1.0.7",
     "express": "^4.17.1",
-    "intersection-observer": "^0.7.0",
+    "intersection-observer": "^0.12.2",
     "iso-639-1": "^2.0.5",
     "lodash": "^4.17.15",
     "lru-cache": "^5.1.1",
